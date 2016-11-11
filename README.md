@@ -1,3 +1,3 @@
 # PHP sample code.
 
-Sample code exercising post requests to a PHP based backend.
+Sample code exercising ajax post requests to a PHP based backend.
