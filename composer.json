@@ -1,0 +1,13 @@
+{
+    "name": "reed/samples",
+    "description": "Sample code exercising post requests in php.",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Jeremy M. Reed",
+            "email": "reeje76@gmail.com"
+        }
+    ],
+    "require": {}
+}
